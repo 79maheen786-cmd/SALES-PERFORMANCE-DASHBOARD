@@ -26,4 +26,3 @@ This dashboard helps decision-makers quickly:
 The dashboard demonstrates how Excel can go beyond basic spreadsheets to deliver professional, interactive, and automated business insights. It provides a practical framework for analyzing performance and making data-driven decisions.
 
 
-Do you also want me to craft a **very short GitHub tagline (under 100 characters)** for the repo?
